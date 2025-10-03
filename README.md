@@ -15,7 +15,7 @@ This project is a simple card component built with HTML and CSS. Its main purpos
 
 **Live Demo Link**
 -
-https://brooke-lin.github.io/card-component/
+https://brooke-lin.github.io/WebProjects_CardComponent/
 
 **Design Attribution**
 -
