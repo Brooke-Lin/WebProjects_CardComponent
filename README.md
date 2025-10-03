@@ -8,7 +8,7 @@ This project is a simple card component built with HTML and CSS. Its main purpos
 * Focus on practicing CSS hover effects
 * Solid foundation for basic HTML structure
 
-**Technologies Used**
+**Built With**
 -
 * CSS
 * HTML
